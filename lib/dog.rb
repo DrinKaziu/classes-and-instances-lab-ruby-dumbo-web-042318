@@ -1,6 +1,6 @@
 class Dog 
 end
 
-nacho = Dog.new 
-cooper = Dog.new 
-tucker = Dog.new 
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new 
